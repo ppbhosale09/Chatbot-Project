@@ -1,0 +1,27 @@
+Answer to I can't see the start button to join the class is,the start button will be enabled or visible half an hour before the class starts.
+
+Answer to how to join a class/course is, 1)Go to "My Classes" and click on the filter button 
+2)Select the country, syllabus, subject, grades, date range, and click on the apply button 
+3)The classes/courses will be shown according to the filters chosen
+4)You can enroll for the entire course or you can enroll in a specific class
+5)The class/course that you enroll for is listed in the subscribed classes section
+6)You can enroll in any number of classes as you wish
+7)Once enrolled, you will be able to see it in the subscribed class
+8)The join button will be enabled 10 minutes before the class start time
+9)Once clicked on the join button, it will take you to the zoom environment where you will be asked to install the application, skip it if you already have it installed
+10)Join the class and make the most of it, also an email will be sent to you one day before and one hour prior to the class start time.
+
+
+
+Answer to how do I take the test is, 1)Go to "My test" In available classes search for the topic you want to take a test on after which you will be shown a list of tests added by the experts, then click on the start button and start taking the test, and when you are done with the test, just click on submit 
+2)You can review the answers against the ones provided by the tutor.
+
+
+Answer to how do I create or join a group is, Go to "My Groups" and click on available groups, then search for the group you want to join and click on subscribe 
+2)After joining the group click on create a new discussion and add title, description, and click on submit, and then you can start the discussion by entering the question 
+3)Click on create a group and choose for public or private option, and then add parameters like title, topic, grade, description, and click on submit 
+4)Private group can also be created if you have the email id of the invitee.
+
+
+
+
